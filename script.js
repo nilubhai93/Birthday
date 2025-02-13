@@ -1,5 +1,5 @@
 // Set the end date for the countdown
-const endDate = "Wating for 14 feb 2025 12:00 AM";
+const endDate = "Wating for 13 feb 2025 12:00 AM";
 document.getElementById("end-date").innerText = endDate;
 
 // Function to update the countdown
